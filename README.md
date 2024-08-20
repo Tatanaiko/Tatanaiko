@@ -10,8 +10,8 @@ Soy desarrolladora de software apasionada por aprender cosas nuevas. Me encanta 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Tatanaiko&show_icons=true&theme=radical)
 
 ## 🚀 Proyectos Destacados:
-- [Prueba Modulo 2](https://github.com/Tatanaiko/M02-Viajes_Chile)
-- [Prueba Modulo 4](https://github.com/Tatanaiko/M04-Sistema-de-Clientes)
+- [Proyecto Modulo 2](https://github.com/Tatanaiko/M02-Viajes_Chile)
+- [Proyecto Modulo 4](https://github.com/Tatanaiko/M04-Sistema-de-Clientes)
 - [Proyecto Modulo 5](https://github.com/Tatanaiko/M05-StartUp)
 - ✨[Proyecto Estrella]✨(https://github.com/Tatanaiko/M06-BootcApp)
 
