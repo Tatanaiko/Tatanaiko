@@ -10,10 +10,10 @@ Soy desarrolladora de software apasionada por aprender cosas nuevas. Me encanta 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Tatanaiko&show_icons=true&theme=radical)
 
 ## 🚀 Proyectos Destacados:
-- [Proyecto 1](https://github.com/Tatanaiko/M02-Viajes_Chile)
-- [Proyecto 2](https://github.com/Tatanaiko/M04-Sistema-de-Clientes)
-- [Proyecto 3](https://github.com/Tatanaiko/M05-StartUp)
-- [Proyecto 4](https://github.com/Tatanaiko/M06-BootcApp)
+- [Prueba Modulo 2](https://github.com/Tatanaiko/M02-Viajes_Chile)
+- [Prueba Modulo 4](https://github.com/Tatanaiko/M04-Sistema-de-Clientes)
+- [Proyecto Modulo 5](https://github.com/Tatanaiko/M05-StartUp)
+- ✨[Proyecto Estrella]✨(https://github.com/Tatanaiko/M06-BootcApp)
 
 ## Conecta Conmigo:
 - [LinkedIn](https://www.linkedin.com/in/tiare-linco-toloza-21713b26b/)
