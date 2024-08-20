@@ -18,4 +18,4 @@ Soy desarrolladora de software apasionada por aprender cosas nuevas. Me encanta 
 ## Conecta Conmigo:
 - [LinkedIn](https://www.linkedin.com/in/tiare-linco-toloza-21713b26b/)
 
-![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AydzRraWhxb3Bta2h6ZmI0c3FjaTk0cW92ZzdjejFlZHVvbHNxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6Q3M4BIK0lX44/giphy.gif)
+![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTk0amVlcGR3a2dxbm85NGE1OXk0b2VmMnFlZXVkNDRrZ3BsOWhjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ElSNi8FdSB7RS/giphy.giff)
